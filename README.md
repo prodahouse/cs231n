@@ -1,6 +1,6 @@
 # cs231n
 
-#version control
+# version control
 * first commit
 * first push
 
@@ -12,4 +12,4 @@
 * commit
 * push
 
-#Second Push
+# Second Push
